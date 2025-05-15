@@ -1,0 +1,1 @@
+"""Prime factorizer package."""
